@@ -1,7 +1,11 @@
 <template>
   <article>
     <div class="container">
+      
       <nuxt-content :document="article" />
+      
+      <prev-next :prev="prev" :next="next" />
+
     </div>
   </article>
 </template>
@@ -11,7 +15,18 @@
     async asyncData({ $content, params }) {
       const article = await $content('articles', params.slug).fetch()
 
-      return { article }
+      const [prev, next] = await $content('articles')
+        .only(['title', 'slug'])
+        .sortBy('createdAt', 'asc')
+        .surround(params.slug)
+        .fetch()
+
+      return {
+        article,
+        prev,
+        next
+      }
+      
     }
   }
 </script>
