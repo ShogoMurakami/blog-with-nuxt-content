@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-profile">
     <div>
       <h1 class="title">
         Shogo M
@@ -12,7 +12,6 @@
       <div class="card">
         <header class="card-header">
           <p class="card-header-title">
-            <i class="fas fa-envelope"></i>&nbsp;
             Email
           </p>
         </header>
@@ -30,7 +29,6 @@
           <div class="card">
             <header class="card-header">
               <p class="card-header-title">
-                <i class="fab fa-twitter"></i>&nbsp;
                 Twitter
               </p>
             </header>
@@ -45,7 +43,6 @@
           <div class="card">
             <header class="card-header">
               <p class="card-header-title">
-                <i class="fab fa-github"></i>&nbsp;
                 GitHub
               </p>
             </header>
@@ -63,7 +60,8 @@
 </template>
 
 <style>
-.container {
+
+.container-profile {
   margin: 0 auto;
   min-height: 100vh;
   display: flex;
@@ -92,7 +90,7 @@
 
 .subtitle {
   font-weight: 280;
-  font-size: 35px;
+  font-size: 30px;
   color: #526488;
   word-spacing: 5px;
   padding-top: 20px;

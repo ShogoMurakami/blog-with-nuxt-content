@@ -1,7 +1,8 @@
 <template>
   <article>
-    <p>Post last updated: {{ article.updatedAt.slice(0,10) }}</p>
-    <nuxt-content :document="article" />
+    <div class="container">
+      <nuxt-content :document="article" />
+    </div>
   </article>
 </template>
 
@@ -24,15 +25,18 @@
     font-weight: bold;
     font-size: 28px;
     padding-top: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
   }
   .nuxt-content h3 {
     font-weight: bold;
     font-size: 22px;
   }
   .nuxt-content p {
-    font-weight: bold;
     font-size: 16px;
     margin-bottom: 20px;
+  }
+  .nuxt-content img {
+    width: 255px;
+    height: 255px;
   }
 </style>

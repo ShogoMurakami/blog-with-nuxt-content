@@ -7,10 +7,16 @@ author:
   image: https://images.hive.blog/DQmYBsZMv2BrqwSuQf84nSZi6FHNZf1UDPv9YzqTo7w5qjw/IMG_0435.JPG
 ---
 
-<author :author="author"></author>
-
 ## CNNによるBitcoin価格予測
 
-ローソク足チャート画像を入力とする，2次元の畳み込みニューラルネットワーク(CNN)を用いて，Bitcoinの価格予測を行いました．
+<author :author="author"></author>
+
+![candlestickchart.png](https://images.hive.blog/DQmQveT2pRbAPhKvot1B73LgBFhFoFnLDPZMfHATrLtzd6d/candlestickchart.png)
+
+ローソク足チャート画像を入力とする，2次元のCNNを用いて，Bitcoinの価格予測を行いました．
+
+・使用した2次元CNNアーキテクチャ: (Conv2D + MaxPooling2D)2層 + Dense 2層
+
+入力データの5分先の騰落を予測する，2値分類問題としました．
 
 最終的なtest accuracyは，0.575でした．
