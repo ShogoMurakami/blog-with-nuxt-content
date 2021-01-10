@@ -15,6 +15,6 @@ Nuxt Contentでブログを作成してみました．
 
 参考にしたサイトは[こちら](https://nuxtjs.org/blog/creating-blog-with-nuxt-content)です．
 
-気分が向けば，たまに更新したいと思います．
+気が向いたら，たまに更新したいと思います．
 
 ---

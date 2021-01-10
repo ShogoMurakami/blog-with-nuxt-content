@@ -15,7 +15,7 @@ author:
 
 ローソク足チャート画像を入力とする，2次元のCNNを用いて，Bitcoinの価格予測を行いました．
 
-・使用した2次元CNNアーキテクチャ: (Conv2D + MaxPooling2D)2層 + Dense 2層
+・2次元CNNアーキテクチャ: (Conv2D + MaxPooling2D)2層 + Dense 2層
 
 入力データの5分先の騰落を予測する，2値分類問題としました．
 
