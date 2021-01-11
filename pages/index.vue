@@ -4,6 +4,7 @@
       <div class="columns">
         <div class="column">
           <h1 class="title">5hogo's blog</h1>
+          <img src="../assets/dog.jpg">
         </div>
         <div class="column">
           <ul>

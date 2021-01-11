@@ -11,6 +11,8 @@ author:
 
 <author :author="author"></author>
 
+---
+
 Nuxt Contentでブログを作成してみました．
 
 参考にしたサイトは[こちら](https://nuxtjs.org/blog/creating-blog-with-nuxt-content)です．

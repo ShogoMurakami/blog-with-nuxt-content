@@ -11,6 +11,8 @@ author:
 
 <author :author="author"></author>
 
+---
+
 ![candlestickchart.png](https://images.hive.blog/DQmQveT2pRbAPhKvot1B73LgBFhFoFnLDPZMfHATrLtzd6d/candlestickchart.png)
 
 ローソク足チャート画像を入力とする，2次元のCNNを用いて，Bitcoinの価格予測を行いました．

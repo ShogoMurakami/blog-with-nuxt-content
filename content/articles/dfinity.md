@@ -11,6 +11,8 @@ author:
 
 <author :author="author"></author>
 
+---
+
 Dfinityのメインネットがローンチしました．
 
 以下のリンクは，アナウンス記事などです．

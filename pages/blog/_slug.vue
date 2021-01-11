@@ -3,14 +3,16 @@
     <div class="container">
       
       <nuxt-content :document="article" />
-      
-      <prev-next :prev="prev" :next="next" />
 
-      <br>
+      <!--
+      <prev-next :prev="prev" :next="next" />
+      -->
 
       <div class="links">
         <nuxt-link to="/" class="button--green">Top</nuxt-link>
       </div>
+
+      <br>
 
     </div>
   </article>
