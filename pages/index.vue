@@ -1,16 +1,34 @@
 <template>
   <div>
-    <h1 class="title">Blog Posts</h1>
-    <ul>
-      <li v-for="article of articles" :key="article.slug">
-        <NuxtLink :to="{ name: 'blog-slug', params: { slug: article.slug } }">
-          <img :src="article.img" />
-          <div>
-            <h2>・{{ article.title }}</h2>
-          </div>
-        </NuxtLink>
-      </li>
-    </ul>
+    <div class="container">
+      <div class="columns">
+        <div class="column">
+          <h1 class="title">5hogo's blog</h1>
+        </div>
+        <div class="column">
+          <ul>
+            <li v-for="article of articles" :key="article.slug">
+              <NuxtLink :to="{ name: 'blog-slug', params: { slug: article.slug } }">
+                <div class="card">
+                  <header class="card-header">
+                    <p class="card-header-title">
+                      {{ article.title }}
+                    </p>
+                  </header>
+                  <div class="card-content">
+                    <div class="content">
+                      Author: {{ article.author.name }}. 
+                      Post created: <time>{{ article.createdAt.slice(0,10) }}</time>
+                    </div>
+                  </div>
+                </div>
+              </NuxtLink>
+              <br>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -30,6 +48,11 @@
 </script>
 
 <style>
+
+.container {
+  padding-top: 50px;
+}
+
 .title {
   font-family:
     'Quicksand',

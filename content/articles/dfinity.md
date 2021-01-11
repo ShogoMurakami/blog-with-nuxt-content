@@ -24,6 +24,6 @@ Dfinityのメインネットがローンチしました．
 ・[Dfinity quietly launched the 'Internet Computer' mainnet last month](https://cointelegraph.com/news/dfinity-quietly-launched-the-internet-computer-mainnet-last-month)
 
 
-読むのに時間がかかりそうです，
+読むのに時間がかかりそうです．
 
 ---

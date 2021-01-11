@@ -6,6 +6,12 @@
       
       <prev-next :prev="prev" :next="next" />
 
+      <br>
+
+      <div class="links">
+        <nuxt-link to="/" class="button--green">Top</nuxt-link>
+      </div>
+
     </div>
   </article>
 </template>
