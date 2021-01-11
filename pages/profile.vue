@@ -55,6 +55,12 @@
         </div>
       </div>
 
+      <br>
+
+      <div class="links">
+        <nuxt-link to="/" class="button--green">Top</nuxt-link>
+      </div>
+
     </div>
   </div>
 </template>
