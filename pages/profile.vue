@@ -24,38 +24,20 @@
 
       <br>
 
-      <div class="columns">
-        <div class="column">
-          <div class="card">
-            <header class="card-header">
-              <p class="card-header-title">
-                Twitter
-              </p>
-            </header>
-            <div class="card-content">
-              <div class="content">
-                <a href="https://twitter.com/5hogoDev1">@5hogoDev1</a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="column">
-          <div class="card">
-            <header class="card-header">
-              <p class="card-header-title">
-                GitHub
-              </p>
-            </header>
-            <div class="card-content">
-              <div class="content">
-                <a href="https://github.com/ShogoMurakami">@ShogoMurakami</a>
-              </div>
-            </div>
+      <div class="card">
+        <header class="card-header">
+          <p class="card-header-title">
+            GitHub
+          </p>
+        </header>
+        <div class="card-content">
+          <div class="content">
+            <a href="https://github.com/ShogoMurakami">@ShogoMurakami</a>
           </div>
         </div>
       </div>
 
-      <br>
+      <br><br>
 
       <div class="links">
         <nuxt-link to="/" class="button--green">Top</nuxt-link>

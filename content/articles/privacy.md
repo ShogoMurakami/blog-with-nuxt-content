@@ -13,8 +13,18 @@ author:
 
 ---
 
-Privacy保護は重要です．
+プライバシー保護は重要です．
 
 詳しく書こうと思いましたが，少し面倒くさいので，いつか更新します．
+
+以下のサービスは，プライバシー保護に役立つと考えられ，私も利用しています．
+
+・検索エンジン: [DuckDuckGo](https://duckduckgo.com/)
+
+・ブラウザ: [Brave](https://brave.com/ja/)
+
+・メール: [ProtonMail](https://protonmail.com/)
+
+・チャット: [Telegram](https://telegram.org/)
 
 ---
