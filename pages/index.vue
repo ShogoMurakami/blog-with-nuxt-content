@@ -54,19 +54,10 @@
 }
 
 .title {
-  font-family:
-    'Quicksand',
-    'Source Sans Pro',
-    -apple-system,
-    BlinkMacSystemFont,
-    'Segoe UI',
-    Roboto,
-    'Helvetica Neue',
-    Arial,
-    sans-serif;
+  font-family: 'Fraunces', serif;
   display: block;
-  font-weight: 300;
-  font-size: 80px;
+  font-weight: 280;
+  font-size: 60px;
   color: #35495e;
   letter-spacing: 1px;
 }
@@ -82,4 +73,9 @@
 .links {
   padding-top: 15px;
 }
+
+.content {
+  font-family: 'Fraunces', serif;
+}
+
 </style>

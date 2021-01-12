@@ -55,8 +55,10 @@
     font-size: 22px;
   }
   .nuxt-content p {
+    font-family: 'Noto Sans JP', sans-serif;
     font-size: 16px;
-    margin-bottom: 20px;
+    line-height: 1.6;
+    margin-bottom: 1.8em;
   }
   .nuxt-content img {
     width: 255px;

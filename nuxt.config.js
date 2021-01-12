@@ -63,6 +63,8 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'preconnect', href: 'https://fonts.gstatic.com'},
+      { rel: 'stylesheet', href: 'link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@600&family=Noto+Sans+JP&display=swap'},
       {
         hid: "canonical",
         rel: "canonical",

@@ -1,10 +1,9 @@
 <template>
   <div>
     <div>
-      <h4>
+      <h4 class="author-style">
         Author: <nuxt-link to="/profile">{{ author.name }}</nuxt-link>
       </h4>
-      <br>
     </div>
   </div>
 </template>
@@ -19,3 +18,13 @@
     }
   }
 </script>
+
+<style>
+
+.author-style {
+  font-family: 'Fraunces', serif;
+  font-size: 17px;
+}
+
+
+</style>
