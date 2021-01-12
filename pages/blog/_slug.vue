@@ -12,7 +12,7 @@
         <nuxt-link to="/" class="button--green">Top</nuxt-link>
       </div>
 
-      <br>
+      <br><br>
 
     </div>
   </article>
