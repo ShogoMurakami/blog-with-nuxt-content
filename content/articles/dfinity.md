@@ -9,8 +9,6 @@ author:
 
 ## Dfinityのメインネットがローンチ
 
-<author :author="author"></author>
-
 ---
 
 以前から注目していた，[Dfinity](https://dfinity.org)のメインネットがローンチされました．
@@ -27,5 +25,3 @@ author:
 
 
 読むのに時間がかかりそうです．
-
----

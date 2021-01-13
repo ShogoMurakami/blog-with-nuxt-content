@@ -9,8 +9,6 @@ author:
 
 ## CNNによるBitcoin価格予測
 
-<author :author="author"></author>
-
 ---
 
 ![candlestickchart.png](https://images.hive.blog/DQmQveT2pRbAPhKvot1B73LgBFhFoFnLDPZMfHATrLtzd6d/candlestickchart.png)
@@ -26,5 +24,3 @@ author:
 最終的なtest accuracyは0.575となり，Dropoutを低い割合で組み込むことで，精度の向上が見られました．
 
 学習データを増やすことで，精度の向上を図ることができる可能性があります．
-
----

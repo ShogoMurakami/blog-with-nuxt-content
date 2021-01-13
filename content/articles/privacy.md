@@ -9,8 +9,6 @@ author:
 
 ## Privacy保護の重要性
 
-<author :author="author"></author>
-
 ---
 
 プライバシー保護は重要です．
@@ -26,5 +24,3 @@ author:
 ・メール: [ProtonMail](https://protonmail.com/)
 
 ・チャット: [Telegram](https://telegram.org/)
-
----
