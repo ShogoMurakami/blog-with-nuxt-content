@@ -17,6 +17,7 @@
             <div class="content">
               <p>Developer. Human.</p>
             </div>
+            <AppSearchInput />
           </article>
         </div>
       </div>
