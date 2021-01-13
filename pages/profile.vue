@@ -27,6 +27,21 @@
       <div class="card">
         <header class="card-header">
           <p class="card-header-title">
+            Twitter
+          </p>
+        </header>
+        <div class="card-content">
+          <div class="content">
+            <a href="https://twitter.com/5hogoDev1">@5hogoDev1</a>
+          </div>
+        </div>
+      </div>
+
+      <br>
+
+      <div class="card">
+        <header class="card-header">
+          <p class="card-header-title">
             GitHub
           </p>
         </header>
