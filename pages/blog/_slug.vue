@@ -20,10 +20,8 @@
           </article>
         </div>
       </div>
-
-      <!--
+      
       <prev-next :prev="prev" :next="next" />
-      -->
 
       <br>
 
