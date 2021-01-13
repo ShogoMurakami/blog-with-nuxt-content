@@ -25,8 +25,10 @@
       <prev-next :prev="prev" :next="next" />
       -->
 
+      <br>
+
       <div class="links">
-        <nuxt-link to="/" class="button--green">Top</nuxt-link>
+        <nuxt-link to="/" class="button--grey">Top</nuxt-link>
       </div>
 
       <br><br>
@@ -69,7 +71,7 @@
 
   .subtitle-slug {
     font-weight: 300;
-    font-size: 32px;
+    font-size: 30px;
     color: #526488;
     word-spacing: 5px;
     padding-bottom: 15px;
@@ -81,7 +83,7 @@
   }
   .nuxt-content h2 {
     font-weight: bold;
-    font-size: 28px;
+    font-size: 26px;
     padding-top: 30px;
     padding-bottom: 20px;
   }

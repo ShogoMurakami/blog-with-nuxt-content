@@ -40,7 +40,7 @@
       <br><br>
 
       <div class="links">
-        <nuxt-link to="/" class="button--green">Top</nuxt-link>
+        <nuxt-link to="/" class="button--grey">Top</nuxt-link>
       </div>
 
     </div>

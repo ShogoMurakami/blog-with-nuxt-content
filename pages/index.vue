@@ -17,8 +17,8 @@
                   </header>
                   <div class="card-content">
                     <div class="content">
-                      Author: {{ article.author.name }}. 
-                      Post created: <time>{{ article.createdAt.slice(0,10) }}</time>
+                      Author: {{ article.author.name }} ・
+                      <time>{{ article.createdAt.slice(0,10) }}</time>
                     </div>
                   </div>
                 </div>
@@ -50,7 +50,8 @@
 <style>
 
 .container {
-  padding-top: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .title {
