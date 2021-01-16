@@ -3,8 +3,10 @@
 
     <footer class="footer">
       <div class="content has-text-centered">
-        <p>
+        <div v-if="this.$route.name !== 'index'">
           <nuxt-link to="/">TOP.</nuxt-link><br><br>
+        </div>
+        <p>
           Created by <nuxt-link to="/profile">Shogo M</nuxt-link>.
           <a href="https://github.com/ShogoMurakami/blog-with-nuxt-content">See the code on GitHub.</a>
         </p>
