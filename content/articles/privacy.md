@@ -23,4 +23,4 @@ author:
 
 ・メール: [ProtonMail](https://protonmail.com/)
 
-・チャット: [Telegram](https://telegram.org/)
+・チャット: [Telegram](https://telegram.org/), [Sense Chat](https://www.sense.chat/)

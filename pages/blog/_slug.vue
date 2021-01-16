@@ -70,7 +70,7 @@
 
   .subtitle-slug {
     font-weight: 300;
-    font-size: 30px;
+    font-size: 25px;
     color: #526488;
     word-spacing: 5px;
     padding-bottom: 15px;
