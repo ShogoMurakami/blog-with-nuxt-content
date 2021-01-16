@@ -1,9 +1,10 @@
 <template>
-  <div>
+  <div class="footer-padding">
 
     <footer class="footer">
       <div class="content has-text-centered">
         <p>
+          <nuxt-link to="/">TOP.</nuxt-link><br><br>
           Created by <nuxt-link to="/profile">Shogo M</nuxt-link>.
           <a href="https://github.com/ShogoMurakami/blog-with-nuxt-content">See the code on GitHub.</a>
         </p>
@@ -12,3 +13,11 @@
     
   </div>
 </template>
+
+<style>
+
+.footer-padding {
+  padding-top: 30px;
+}
+
+</style>

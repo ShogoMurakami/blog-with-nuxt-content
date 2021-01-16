@@ -24,12 +24,6 @@
       
       <prev-next :prev="prev" :next="next" />
 
-      <br>
-
-      <div class="links">
-        <nuxt-link to="/" class="button--grey">Top</nuxt-link>
-      </div>
-
       <Footer />
     
     </div>
