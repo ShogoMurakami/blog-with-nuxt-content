@@ -29,10 +29,13 @@
         </div>
       </div>
     </div>
+    <Footer />
   </div>
 </template>
 
 <script>
+  import Footer from "../components/Footer";
+
   export default {
     async asyncData({ $content, params }) {
       const articles = await $content('articles', params.slug)

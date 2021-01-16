@@ -1,7 +1,7 @@
 <template>
   <div class="container-profile">
     <div>
-      <h1 class="title">
+      <h1 class="title-profile">
         Shogo M
       </h1>
 
@@ -52,15 +52,24 @@
         </div>
       </div>
 
-      <br><br>
+      <br>
 
       <div class="links">
         <nuxt-link to="/" class="button--grey">Top</nuxt-link>
       </div>
 
+      <Footer />
+
     </div>
   </div>
 </template>
+
+<script>
+  import Footer from "../components/Footer";
+
+  export default {
+  }
+</script>
 
 <style>
 
@@ -73,7 +82,7 @@
   text-align: center;
 }
 
-.title {
+.title-profile {
   font-family:
     'Quicksand',
     'Source Sans Pro',
@@ -89,6 +98,7 @@
   font-size: 50px;
   color: #35495e;
   letter-spacing: 1px;
+  padding-top: 40px;
 }
 
 .subtitle {

@@ -30,13 +30,15 @@
         <nuxt-link to="/" class="button--grey">Top</nuxt-link>
       </div>
 
-      <br><br>
+      <Footer />
     
     </div>
   </article>
 </template>
 
 <script>
+  import Footer from "../../components/Footer";
+
   export default {
     async asyncData({ $content, params }) {
       const article = await $content('articles', params.slug).fetch()
