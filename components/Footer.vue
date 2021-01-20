@@ -22,4 +22,8 @@
   padding-top: 30px;
 }
 
+.footer {
+  background-color: white;
+}
+
 </style>

@@ -84,7 +84,8 @@
   }
   .nuxt-content h3 {
     font-weight: bold;
-    font-size: 22px;
+    font-size: 24px;
+    padding-bottom: 15px;
   }
   .nuxt-content p {
     font-family: 'Noto Sans JP', sans-serif;
