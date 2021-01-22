@@ -1,22 +1,23 @@
 ---
-title: Secret Network Tutorial
-description: Secret Networkのtutorialをやってみました．
+title: Secret NetworkとNearのチュートリアル
+description: Secret NetworkとNearのチュートリアルをやってみました．
 author:
   name: Shogo M
   bio: Developer.
   image: https://images.hive.blog/DQmYBsZMv2BrqwSuQf84nSZi6FHNZf1UDPv9YzqTo7w5qjw/IMG_0435.JPG
 ---
 
-## Secret Network Tutorial
+## Secret NetworkとNearのチュートリアル
 
 ---
 
-Secret Networkのtutorialをやってみました．
-
-https://figment.io/resources/earn-scrt-build-secret-apps-with-the-secret-network-pathway/
+[Secret Network](https://datahub.figment.io/services/secret)と[Near](https://datahub.figment.io/services/near)のチュートリアルをやってみました．
 
 丁寧に教えてくれるので，分かりやすかったです．
 
-一応，tutorialをやってみたコードを置いておきます．
+チュートリアルをやってみたコードを置いておきます．
 
 https://github.com/ShogoMurakami/secret-network-tutorial
+
+https://github.com/ShogoMurakami/near-tutorial
+
