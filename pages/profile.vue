@@ -52,6 +52,21 @@
         </div>
       </div>
 
+      <br>
+
+      <div class="card">
+        <header class="card-header">
+          <p class="card-header-title">
+            Qiita
+          </p>
+        </header>
+        <div class="card-content">
+          <div class="content">
+            <a href="https://qiita.com/ShogoMurakami">@ShogoMurakami</a>
+          </div>
+        </div>
+      </div>
+
       <Footer />
 
     </div>
