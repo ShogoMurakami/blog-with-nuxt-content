@@ -17,8 +17,7 @@
                   </header>
                   <div class="card-content">
                     <div class="content">
-                      Author: {{ article.author.name }} ・
-                      <time>{{ article.createdAt.slice(0,10) }}</time>
+                      Author: {{ article.author.name }}
                     </div>
                   </div>
                 </div>

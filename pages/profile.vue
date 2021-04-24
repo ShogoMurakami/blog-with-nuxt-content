@@ -12,21 +12,6 @@
       <div class="card">
         <header class="card-header">
           <p class="card-header-title">
-            Email
-          </p>
-        </header>
-        <div class="card-content">
-          <div class="content">
-            shogo-dev@protonmail.com
-          </div>
-        </div>
-      </div>
-
-      <br>
-
-      <div class="card">
-        <header class="card-header">
-          <p class="card-header-title">
             Twitter
           </p>
         </header>
@@ -48,21 +33,6 @@
         <div class="card-content">
           <div class="content">
             <a href="https://github.com/ShogoMurakami">@ShogoMurakami</a>
-          </div>
-        </div>
-      </div>
-
-      <br>
-
-      <div class="card">
-        <header class="card-header">
-          <p class="card-header-title">
-            Qiita
-          </p>
-        </header>
-        <div class="card-content">
-          <div class="content">
-            <a href="https://qiita.com/ShogoMurakami">@ShogoMurakami</a>
           </div>
         </div>
       </div>
