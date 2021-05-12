@@ -13,11 +13,11 @@ author:
 
 学習データをIPFS(分散型ファイルシステム)にアップロードし，
 
-ハッシュ値をEthereum(Blockchain)のログ出力として記録する．
-
-わざわざEthereumに記録するメリットは少ないが，
+IPFSハッシュをEthereum(Blockchain)のログ出力として記録する．
 
 IPFSに学習データをアップロードすることで，誰もが検証可能となる．
+
+また，IPFSハッシュをBlockchainに記録することで，タイムスタンプを得ることができる．
 
 参考：
 https://lab.financie.jp/entry/2019/11/12/173631
