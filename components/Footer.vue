@@ -8,7 +8,6 @@
         </div>
         <p>
           Created by <nuxt-link to="/profile">Shogo M</nuxt-link>.
-          <a href="https://github.com/ShogoMurakami/blog-with-nuxt-content">See the code on GitHub.</a>
         </p>
       </div>
     </footer>
