@@ -27,6 +27,21 @@
       <div class="card">
         <header class="card-header">
           <p class="card-header-title">
+            Keybase
+          </p>
+        </header>
+        <div class="card-content">
+          <div class="content">
+            <a href="https://keybase.io/shogomurakami">shogomurakami</a>
+          </div>
+        </div>
+      </div>
+
+      <br>
+
+      <div class="card">
+        <header class="card-header">
+          <p class="card-header-title">
             GitHub
           </p>
         </header>
