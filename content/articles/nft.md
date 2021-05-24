@@ -1,13 +1,13 @@
 ---
-title: IPFSを利用したERC-721 NFTsの作成
-description: IPFSを利用したERC-721 NFTsの作成
+title: IPFSを利用したERC-721 NFTの作成
+description: IPFSを利用したERC-721 NFTの作成
 author:
   name: Shogo M
   bio: Developer.
   image: https://images.hive.blog/DQmYBsZMv2BrqwSuQf84nSZi6FHNZf1UDPv9YzqTo7w5qjw/IMG_0435.JPG
 ---
 
-## IPFSを利用したERC-721 NFTsの作成
+## IPFSを利用したERC-721 NFTの作成
 
 ---
 
