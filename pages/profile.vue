@@ -2,7 +2,7 @@
   <div class="container-profile">
     <div>
       <h1 class="title-profile">
-        Shogo M
+        Shogo
       </h1>
 
       <h3 class="subtitle">
@@ -18,21 +18,6 @@
         <div class="card-content">
           <div class="content">
             <a href="https://twitter.com/5hogoDev1">@5hogoDev1</a>
-          </div>
-        </div>
-      </div>
-
-      <br>
-
-      <div class="card">
-        <header class="card-header">
-          <p class="card-header-title">
-            Keybase
-          </p>
-        </header>
-        <div class="card-content">
-          <div class="content">
-            <a href="https://keybase.io/shogomurakami">shogomurakami</a>
           </div>
         </div>
       </div>
